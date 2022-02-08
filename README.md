@@ -4,7 +4,7 @@
 
 
 ## I'm a  Sofware engineer!!
-- 🔭 I’m currently studying database 
+- 🔭I am studying the database as part of courses that I will study during my years at school.
 - � 
 - 💬 Ask me about ... anything about java, database, testning.
 - 😄 Pronouns: He/Her
