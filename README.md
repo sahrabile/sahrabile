@@ -6,7 +6,7 @@
 ## I'm a  Java developer(Systemutvecklare java)!
 - 🔭I am studying the database as part of courses that I will study during my years at school.
 - 💬 Ask me about ... anything about java, database, testning.
-- 😄 Pronouns: He/Her
+- 😄 Pronouns: she/Her
 - ⚡ Fun fact: I'm a team player
 
 ### Talk with me, I am kinda awesome:
