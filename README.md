@@ -4,7 +4,7 @@
 
 
 ## I'm a  Java developer(Systemutvecklare java)!
-- 🔭I am studying the database as part of courses that I will study during my years at school.
+- 🔭Currently I am working with MySQL as part of the database course during my education at Newton Kompetensutveckling AB.
 - 💬 Ask me about ... anything about java, database, testning.
 - 😄 Pronouns: she/Her
 - ⚡ Fun fact: I'm a team player
